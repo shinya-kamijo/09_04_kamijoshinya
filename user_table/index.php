@@ -26,7 +26,7 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.php">入力フォーム</a>
+                        <a class="nav-link" href="index.php">アンケートフォーム</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="select.php">登録履歴一覧</a>

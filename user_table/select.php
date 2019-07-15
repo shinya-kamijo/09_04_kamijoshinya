@@ -74,7 +74,7 @@ if ($status==false) {
                         <a class="nav-link" href="index.php">入力フォーム</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="select.php">登録前一覧</a>
+                        <a class="nav-link" href="../select.php">todo一覧</a>
                     </li> 
                            </ul>
             </div>

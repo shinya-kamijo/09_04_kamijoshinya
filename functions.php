@@ -66,8 +66,9 @@ function select()
 {
     $select = '<li class="nav-item"><a class="nav-link" href="index.php">todo登録</a></li>
     <li class="nav-item"><a class="nav-link" href="select.php">todo一覧</a></li>
-      <li class="nav-item"><a class="nav-link" href="user_table/index.php">user登録</a></li>
-        <li class="nav-item"><a class="nav-link" href="user_table/select.php">user管理</a></li>    ';
+      <li class="nav-item"><a class="nav-link" href="user_table/index.php">userアンケート</a></li>
+        <li class="nav-item"><a class="nav-link" href="user_table/select.php">user管理</a></li>
+        <li class="nav-item"><a class="nav-link" href="../index.php">画像投稿</a></li>            ';
     $select .= '<li class="nav-item"><a class="nav-link" href="logout.php">ログアウト</a></li>';
     return $select;
 }
